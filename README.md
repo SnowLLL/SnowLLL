@@ -46,4 +46,4 @@ User Requirements Gathering, User Interface Design, Testing and Debugging, Agile
 ✨[Here's a link](https://it-portfolio.netlify.app/) to my personal portfolio:
 
 💻Looking forward to starting a conversation on any development- or career-related topics!\
-📫 How to reach me ...via email - liuxueworking@gmail.com
+📫 How to reach me ...via email :envelope_with_arrow: - liuxueworking@gmail.com
