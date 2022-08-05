@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @SnowLLL 
+# 👋 Hi, I’m @Snow Liu 
 
 My name is ```Snow``` and nice to e-meet you all here!
 
@@ -26,24 +26,16 @@ User Requirements Gathering, User Interface Design, Testing and Debugging, Agile
 
 * React
 * Bootstrap
-* AnimeJS
-* Material-UI
-* ES6
 * JavaScript
-* SASS
-* LESS
+* Spring boot
+* MySQL
 * CSS
 * HTML
 * Python3
-* Django
-* Heroku
-* Netlify
 * Framer Motion
 * Visual Studio Code
 * Git/Github
 ```
 
-✨[Here's a link](https://it-portfolio.netlify.app/) to my personal portfolio:
-
 💻Looking forward to starting a conversation on any development- or career-related topics!\
-📫 How to reach me ...via email :envelope_with_arrow: - liuxueworking@gmail.com
+📫 How to reach me ...via email :envelope_with_arrow: - ruxuel@outlook.com
